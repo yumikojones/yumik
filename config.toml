@@ -1,0 +1,4 @@
+baseURL = 'https://yumikojones.github.io/yumik'
+languageCode = 'en-us'
+title = 'Saima Site'
+theme = 'cactus'
